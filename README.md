@@ -1,4 +1,2 @@
 -GestionEscuela
 ===============
-
-lalalallala2
