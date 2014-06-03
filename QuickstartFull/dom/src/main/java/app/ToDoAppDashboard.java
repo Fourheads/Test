@@ -29,7 +29,7 @@ import org.apache.isis.applib.annotation.Render.Type;
 public class ToDoAppDashboard extends AbstractViewModel {
 
     public String title() {
-        return "Dashboard";
+        return "Algo pochi";
     }
     
     public String iconName() {

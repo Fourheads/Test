@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="2.265" tests="4" errors="0" skipped="0" failures="0">
+<testsuite name="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="3.89" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/java/jdk1.7.0_55/jre/lib/i386"/>
@@ -58,8 +58,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="happyCase" classname="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="0.993"/>
-  <testcase name="categoryCannotBeNull" classname="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="0.504"/>
-  <testcase name="subcategoryCanBeNull" classname="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="0.306"/>
-  <testcase name="subcategoryMustBelongToCategory" classname="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="0.462"/>
+  <testcase name="happyCase" classname="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="1.678"/>
+  <testcase name="categoryCannotBeNull" classname="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="0.785"/>
+  <testcase name="subcategoryCanBeNull" classname="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="0.824"/>
+  <testcase name="subcategoryMustBelongToCategory" classname="integration.tests.actions.ToDoItemContributionsTest_updateCategory" time="0.603"/>
 </testsuite>

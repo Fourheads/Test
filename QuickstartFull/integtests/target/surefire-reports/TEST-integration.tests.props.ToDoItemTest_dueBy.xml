@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="integration.tests.props.ToDoItemTest_dueBy" time="1.989" tests="4" errors="0" skipped="0" failures="0">
+<testsuite name="integration.tests.props.ToDoItemTest_dueBy" time="3.125" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/java/jdk1.7.0_55/jre/lib/i386"/>
@@ -58,8 +58,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="canBeUpToSixDaysInPast" classname="integration.tests.props.ToDoItemTest_dueBy" time="0.297"/>
-  <testcase name="happyCase" classname="integration.tests.props.ToDoItemTest_dueBy" time="0.529"/>
-  <testcase name="cannotBeMoreThanSixDaysInPast" classname="integration.tests.props.ToDoItemTest_dueBy" time="0.527"/>
-  <testcase name="canBeNull" classname="integration.tests.props.ToDoItemTest_dueBy" time="0.636"/>
+  <testcase name="canBeUpToSixDaysInPast" classname="integration.tests.props.ToDoItemTest_dueBy" time="0.509"/>
+  <testcase name="happyCase" classname="integration.tests.props.ToDoItemTest_dueBy" time="0.846"/>
+  <testcase name="cannotBeMoreThanSixDaysInPast" classname="integration.tests.props.ToDoItemTest_dueBy" time="0.927"/>
+  <testcase name="canBeNull" classname="integration.tests.props.ToDoItemTest_dueBy" time="0.843"/>
 </testsuite>

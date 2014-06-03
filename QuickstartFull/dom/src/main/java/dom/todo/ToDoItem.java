@@ -212,6 +212,11 @@ public class ToDoItem implements Comparable<ToDoItem> {
             public List<Subcategory> subcategories() {
                 return Arrays.asList(null, Subcategory.Shopping, Subcategory.Housework, Subcategory.Garden, Subcategory.Chores);
             }
+        }, Popo {
+            @Override
+            public List<Subcategory> subcategories() {
+                return Arrays.asList(null, Subcategory.Other);
+            }
         }, Other {
             @Override
             public List<Subcategory> subcategories() {

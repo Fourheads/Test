@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="integration.tests.props.ToDoItemTest_attachment" time="0.961" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="integration.tests.props.ToDoItemTest_attachment" time="1.435" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/java/jdk1.7.0_55/jre/lib/i386"/>
@@ -58,6 +58,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="happyCase" classname="integration.tests.props.ToDoItemTest_attachment" time="0.514"/>
-  <testcase name="canBeNull" classname="integration.tests.props.ToDoItemTest_attachment" time="0.447"/>
+  <testcase name="happyCase" classname="integration.tests.props.ToDoItemTest_attachment" time="0.774"/>
+  <testcase name="canBeNull" classname="integration.tests.props.ToDoItemTest_attachment" time="0.661"/>
 </testsuite>

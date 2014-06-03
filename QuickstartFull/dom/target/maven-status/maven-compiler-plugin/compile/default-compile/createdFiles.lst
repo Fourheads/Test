@@ -1,5 +1,6 @@
 app/ToDoItemsByCategoryViewModel$1.class
 dom/todo/QToDoItem.class
+dom/todo/ToDoItem$Category$4.class
 dom/todo/ToDoItem$1.class
 dom/todo/ToDoItem$Predicates$1.class
 dom/todo/ToDoItem$DemoExceptionType.class

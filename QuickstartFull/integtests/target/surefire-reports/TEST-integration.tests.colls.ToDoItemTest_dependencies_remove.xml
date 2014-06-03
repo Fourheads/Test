@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="integration.tests.colls.ToDoItemTest_dependencies_remove" time="1.283" tests="3" errors="0" skipped="0" failures="0">
+<testsuite name="integration.tests.colls.ToDoItemTest_dependencies_remove" time="2.135" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/java/jdk1.7.0_55/jre/lib/i386"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="happyCase" classname="integration.tests.colls.ToDoItemTest_dependencies_remove" time="0.584"/>
-  <testcase name="cannotRemoveDependencyIfComplete" classname="integration.tests.colls.ToDoItemTest_dependencies_remove" time="0.341"/>
-  <testcase name="cannotRemoveItemIfNotADepedndency" classname="integration.tests.colls.ToDoItemTest_dependencies_remove" time="0.358"/>
+  <testcase name="happyCase" classname="integration.tests.colls.ToDoItemTest_dependencies_remove" time="0.926"/>
+  <testcase name="cannotRemoveDependencyIfComplete" classname="integration.tests.colls.ToDoItemTest_dependencies_remove" time="0.676"/>
+  <testcase name="cannotRemoveItemIfNotADepedndency" classname="integration.tests.colls.ToDoItemTest_dependencies_remove" time="0.533"/>
 </testsuite>

@@ -79,11 +79,11 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 7521056,
+  "duration": 28939231,
   "status": "passed"
 });
 formatter.before({
-  "duration": 127648183,
+  "duration": 145715164,
   "status": "passed"
 });
 formatter.scenario({
@@ -138,40 +138,40 @@ formatter.match({
   "location": "ToDoItemGlue.there_are_a_number_of_incomplete_ToDo_items()"
 });
 formatter.result({
-  "duration": 910505847,
+  "duration": 1216044178,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.I_choose_the_first_one()"
 });
 formatter.result({
-  "duration": 211724,
+  "duration": 418498,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.mark_it_as_complete()"
 });
 formatter.result({
-  "duration": 32599724,
+  "duration": 59084648,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.the_item_is_no_longer_listed_as_incomplete()"
 });
 formatter.result({
-  "duration": 1952369,
+  "duration": 3003241,
   "status": "passed"
 });
 formatter.after({
-  "duration": 647670,
+  "duration": 994352,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6469304,
+  "duration": 10418802,
   "status": "passed"
 });
 formatter.before({
-  "duration": 230339534,
+  "duration": 930453548,
   "status": "passed"
 });
 formatter.scenario({
@@ -212,32 +212,32 @@ formatter.match({
   "location": "ToDoItemGlue.there_are_a_number_of_incomplete_ToDo_items()"
 });
 formatter.result({
-  "duration": 39069936,
+  "duration": 90719603,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.I_choose_the_first_one()"
 });
 formatter.result({
-  "duration": 121503,
+  "duration": 201427,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.mark_it_as_complete()"
 });
 formatter.result({
-  "duration": 2848494,
+  "duration": 5127301,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.the_item_is_no_longer_listed_as_incomplete()"
 });
 formatter.result({
-  "duration": 39507000,
+  "duration": 96015016,
   "status": "passed"
 });
 formatter.after({
-  "duration": 15640530,
+  "duration": 49248684,
   "status": "passed"
 });
 formatter.uri("integration/specs/todoitem/ToDoItemSpec_findCompletedAndMarkAsNotYetComplete.feature");
@@ -321,11 +321,11 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 6044600,
+  "duration": 23007342,
   "status": "passed"
 });
 formatter.before({
-  "duration": 273617269,
+  "duration": 566019806,
   "status": "passed"
 });
 formatter.scenario({
@@ -375,33 +375,33 @@ formatter.match({
   "location": "ToDoItemGlue.a_completed_ToDo_item()"
 });
 formatter.result({
-  "duration": 42289565,
+  "duration": 62896878,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.I_mark_it_as_not_yet_complete()"
 });
 formatter.result({
-  "duration": 1031039,
+  "duration": 2361735,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.the_item_is_listed_as_incomplete()"
 });
 formatter.result({
-  "duration": 32751704,
+  "duration": 63384731,
   "status": "passed"
 });
 formatter.after({
-  "duration": 8743685,
+  "duration": 16895117,
   "status": "passed"
 });
 formatter.before({
-  "duration": 304249,
+  "duration": 419546,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1186759,
+  "duration": 2620782,
   "status": "passed"
 });
 formatter.scenario({
@@ -437,25 +437,25 @@ formatter.match({
   "location": "ToDoItemGlue.a_completed_ToDo_item()"
 });
 formatter.result({
-  "duration": 1478789,
+  "duration": 2213738,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.I_mark_it_as_not_yet_complete()"
 });
 formatter.result({
-  "duration": 102091,
+  "duration": 157845,
   "status": "passed"
 });
 formatter.match({
   "location": "ToDoItemGlue.the_item_is_listed_as_incomplete()"
 });
 formatter.result({
-  "duration": 968681,
+  "duration": 1659046,
   "status": "passed"
 });
 formatter.after({
-  "duration": 170106,
+  "duration": 366815,
   "status": "passed"
 });
 });

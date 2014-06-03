@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="integration.tests.actions.ToDoItemTest_completed" time="2.094" tests="3" errors="0" skipped="0" failures="0">
+<testsuite name="integration.tests.actions.ToDoItemTest_completed" time="3.274" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/java/jdk1.7.0_55/jre/lib/i386"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="happyCase" classname="integration.tests.actions.ToDoItemTest_completed" time="0.637"/>
-  <testcase name="cannotCompleteIfAlreadyCompleted" classname="integration.tests.actions.ToDoItemTest_completed" time="0.427"/>
-  <testcase name="cannotSetPropertyDirectly" classname="integration.tests.actions.ToDoItemTest_completed" time="1.03"/>
+  <testcase name="happyCase" classname="integration.tests.actions.ToDoItemTest_completed" time="0.78"/>
+  <testcase name="cannotCompleteIfAlreadyCompleted" classname="integration.tests.actions.ToDoItemTest_completed" time="0.881"/>
+  <testcase name="cannotSetPropertyDirectly" classname="integration.tests.actions.ToDoItemTest_completed" time="1.613"/>
 </testsuite>
