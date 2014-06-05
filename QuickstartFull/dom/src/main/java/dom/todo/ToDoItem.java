@@ -91,7 +91,7 @@ import org.apache.isis.applib.value.Blob;
             name = "findByOwnedBy", language = "JDOQL",
             value = "SELECT "
                     + "FROM dom.todo.ToDoItem "
-                    + "WHERE ownedBy == :ownedBy"),
+                    + "WHERE ownedBy == :ownedBy"),// why?????
     @javax.jdo.annotations.Query(
             name = "findByOwnedByAndCompleteIsFalse", language = "JDOQL",
             value = "SELECT "
