@@ -1,5 +1,7 @@
 package dom.escuela;
 
+	// ASÍ SE SUPONE QUE QUEDARÍA LICENCIADA CADA CLASE. 
+	// EN LA PRIMER LÍNEA TENEMOS QUE PONER UNA BREVE DESCRIPCIÓN DEL PROYECTO. 
 	/*  
 	GestiónEscuela, management software for schools. 
     Copyright (C) 2014, Fourheads.
@@ -18,6 +20,7 @@ package dom.escuela;
     with this program; if not, write to the Free Software Foundation, Inc.,
     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
     */
+	
 
 public class Alumno extends Persona{
 
