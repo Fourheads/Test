@@ -225,13 +225,13 @@
             <artifactId>hsqldb</artifactId>
         </dependency>
 
-        <!-- 
+         
         <dependency>
             <groupId>postgresql</groupId>
             <artifactId>postgresql</artifactId>
             <version>9.1-901.jdbc4</version>
         </dependency>
-         -->
+         
 
         <!-- 
         mvn install:install-file -Dfile=sqljdbc4.jar \
@@ -258,8 +258,9 @@
             </exclusion>
           </exclusions>
         </dependency>
-
-
+		
+		
+	
         <!-- quartz scheduler integration -->
         <dependency>
             <groupId>org.quartz-scheduler</groupId>
